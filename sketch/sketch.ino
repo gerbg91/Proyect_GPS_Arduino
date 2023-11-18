@@ -22,8 +22,8 @@ TinyGPSPlus gps;
 // Control de datos de GPS
 boolean hayDatosGPS;
 
-#define latitudDestino 60.265462
-#define longitudDestino -0.852455
+#define latitudDestino 83.145678
+#define longitudDestino 43.853130
 
 void setup() {
   //Begin serial communication Arduino IDE (Serial Monitor)
